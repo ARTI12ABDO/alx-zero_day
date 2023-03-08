@@ -1,4 +1,4 @@
-
-echo "the school is open!"
+#!/bin/bash
+echo "the school is cool"
 
 
